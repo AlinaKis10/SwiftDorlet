@@ -1,0 +1,18 @@
+//
+//  Localizable.strings
+//  DorletSwift
+//
+//  Created by Deusto SEIDOR on 30/09/2026.
+//
+
+
+
+// Header
+"lectores" = "Lectores";
+
+// SearchBar
+"textSearchBar" = "Número de Taquilla";
+
+// Lockers
+"lockerOpen" = "Abierta";
+
